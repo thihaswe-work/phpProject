@@ -1,0 +1,12 @@
+{
+  "name": "macmini/blog",
+  "autoload": {
+    "psr-4": {
+      "Libs\\": "_classes/Libs/",
+      "Helpers\\": "_classes/Helpers/"
+    }
+  },
+  "require": {
+    "fakerphp/faker": "^1.20"
+  }
+}
